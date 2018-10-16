@@ -1,4 +1,4 @@
-This App uses Googles Youtube Data API V3 to dynamically search youtube's database and return the first 30 video matches.
+This App uses Googles Youtube Data API V3 to dynamically search youtube's database and return the first 30 video matches. It defaults with keyword 'surfboards'.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
